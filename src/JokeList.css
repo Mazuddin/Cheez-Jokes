@@ -1,0 +1,54 @@
+@import url("https://use.fontawesome.com/releases/v5.3.1/css/all.css");
+
+
+.JokeList {
+  font-family: Arial, sans-serif;
+  padding: 40px;
+  display: block;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+}
+
+.JokeList-getmore {
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  padding: 10px 15px;
+  margin:20px;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+.Joke {
+  border-radius: 8px;
+  padding: 10px;
+  margin: 4px 0;
+  width: 100%;
+  display: flex;
+  flex-direction: column-reverse;
+}
+
+.Joke-votearea {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 10px;
+}
+
+.Joke-text {
+  font-size: 16px;
+  text-align: center;
+}
+
+.loading {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 20px;
+}
+
+.loading i {
+  font-size: 7rem;
+  color: #007bff;
+}

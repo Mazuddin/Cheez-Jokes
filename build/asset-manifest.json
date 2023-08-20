@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/cheez-jokes/static/css/main.d74ed578.css",
+    "main.js": "/cheez-jokes/static/js/main.b9bdbf97.js",
+    "index.html": "/cheez-jokes/index.html",
+    "main.d74ed578.css.map": "/cheez-jokes/static/css/main.d74ed578.css.map",
+    "main.b9bdbf97.js.map": "/cheez-jokes/static/js/main.b9bdbf97.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d74ed578.css",
+    "static/js/main.b9bdbf97.js"
+  ]
+}
